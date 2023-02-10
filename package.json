@@ -1,0 +1,8 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sam-goldman/temp.git",
+  "author": "Sam Goldman <sam@quixotic.io>",
+  "license": "MIT"
+}
